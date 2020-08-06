@@ -23,7 +23,7 @@ h1
 	margin-top: 30px;
 	text-align: center;
 	font-size: 40px;
-	color: crimson;
+	color: red;
 }
 #a 
 {
@@ -278,4 +278,10 @@ input[type=text], input[type=password] {
 	.cancelbtn {
 	   width: 100%;
 	}
+  }
+  .bgr p{
+	  text-align: center;
+	  padding :5%;
+	  width:70%;
+	  margin-left:15%;
   }
